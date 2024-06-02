@@ -10,5 +10,5 @@ lighthouse_results/**
 _posts/2015-10-20-math.md
 _includes/elements/**
 _projects/**
-config.yml
+_config.yml
 _data/repositories.yml
