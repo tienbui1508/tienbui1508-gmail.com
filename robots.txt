@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tienbui1508.github.io//sitemap.xml
+Sitemap: https://tienbui1508.github.io/sitemap.xml
