@@ -8,7 +8,6 @@ category: dev
 related_publications: false
 toc:
   sidebar: left
-
 ---
 
 `HTML`
@@ -46,6 +45,7 @@ toc:
 {% include elements/carousel.html %}
 
 ---
+
 # Overview
 
 ## Purpose
@@ -60,6 +60,7 @@ This project was a group (5 people) assignment for the Web-Based System Developm
 - **Management reporting**: Both administrator and manager users could view dashboards and logs associated with their roles. An administrator user could view user logs, while a manager user could view user logs and product logs. These logs allowed users to see a history of changes made to the content management system.
 
 ---
+
 # Technical details
 
 ## Technologies and Tools used
@@ -92,6 +93,7 @@ This project was a group (5 people) assignment for the Web-Based System Developm
 - Document everything
 
 ---
+
 # My contribution
 
 - Developed the Edit and Delete Product functions for the website using `PHP`, `HTML`, and `CSS`
@@ -104,6 +106,7 @@ This project was a group (5 people) assignment for the Web-Based System Developm
 - Applied **agile methodologies** to manage the project timeline and deliverables effectively.
 
 ---
+
 # Source code
 
 Unfortunately, this is a uni project so the source code and the whole report **cannot be shared** due to academic integrity and intellectual property concerns.

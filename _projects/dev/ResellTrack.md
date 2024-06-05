@@ -1,51 +1,56 @@
 ---
-name: Resell Track [iOS app]
-tools:
-  [
-    Swift,
-    SwiftUI,
-    XCode,
-    Github,
-    Canva,
-    AppMockUp,
-    Test Flight,
-    App Store Connect,
-  ]
-image: /assets/images/resellTrack/resellTrack_appIcon.png
+layout: page
+title: Resell Track (iOS app)
 description: An iOS app written by SwiftUI that works on iPhones, iPads and Macs. Resell Track helps users organise purchased items, track their value, and record sales.
-# external_url: https://github.com/tienbui1508/ResellTrack
+img: /assets/img/resellTrack/resellTrack_appIcon.png
+importance: 2
+category: dev
+related_publications: false
+toc:
+  sidebar: left
 ---
 
-# Resell Track
+`Swift`
+`SwiftUI`
+`XCode`
+`Github`
+`Canva`
+`AppMockUp`
+`Test Flight`
+`App Store Connect`
 
 ---
 
 # Download 👇
 
-
+{% include elements/button.html link="https://apps.apple.com/au/app/resell-track/id6455427979" text="Click here to download **Resell Track** on *Apple App Store*" block=true %}
 
 # Screenshots
 
-![App Screenshots](/assets/images/resellTrack/resellTrack_iphone1.png "iPhone 11 Pro Max")
-![App Screenshots](/assets/images/resellTrack/resellTrack_iphone2.png "iPhone 8 Plus")
-![App Screenshots](/assets/images/resellTrack/resellTrack_ipad.png "iPad")
+{% capture carousel_images %}
+/assets/img/resellTrack/resellTrack_iphone1.png
+/assets/img/resellTrack/resellTrack_iphone2.png
+/assets/img/resellTrack/resellTrack_ipad.png
+/assets/img/resellTrack/resellTrack_screenshot1.png
+/assets/img/resellTrack/resellTrack_screenshot2.png
+/assets/img/resellTrack/resellTrack_screenshot3.png
+/assets/img/resellTrack/resellTrack_screenshot4.png
+/assets/img/resellTrack/resellTrack_screenshot5.png
+/assets/img/resellTrack/resellTrack_screenshot6.png
+/assets/img/resellTrack/resellTrack_screenshot7.png
+/assets/img/resellTrack/resellTrack_screenshot8.png
+/assets/img/resellTrack/resellTrack_screenshot9.png
+/assets/img/resellTrack/resellTrack_screenshot10.png
+{% endcapture %}
+{% include elements/carousel.html %}
 
-
-/assets/images/resellTrack/resellTrack_screenshot1.png
-/assets/images/resellTrack/resellTrack_screenshot2.png
-/assets/images/resellTrack/resellTrack_screenshot3.png
-/assets/images/resellTrack/resellTrack_screenshot4.png
-/assets/images/resellTrack/resellTrack_screenshot5.png
-/assets/images/resellTrack/resellTrack_screenshot6.png
-/assets/images/resellTrack/resellTrack_screenshot7.png
-/assets/images/resellTrack/resellTrack_screenshot8.png
-/assets/images/resellTrack/resellTrack_screenshot9.png
-/assets/images/resellTrack/resellTrack_screenshot10.png
-
+---
 
 # App Clip
 
+{% include video.liquid path="https://www.youtube.com/embed/NQLiCz1Kbd8" class="img-fluid rounded z-depth-1" %}
 
+---
 
 # Overview
 
@@ -77,6 +82,8 @@ An iOS app written by SwiftUI that works on iPhones, iPads and Macs. It helps us
 
 - People that often buy things and resell them later.
 
+---
+
 # Technical details
 
 ## Technologies and Tools used
@@ -92,6 +99,8 @@ An iOS app written by SwiftUI that works on iPhones, iPads and Macs. It helps us
 | Test Flight       | Testing          |
 | App Store Connect | App distribution |
 
+<br>
+
 ## Tasks
 
 - Sole developer of the Resell Track iOS app using Swift and SwiftUI.
@@ -100,11 +109,15 @@ An iOS app written by SwiftUI that works on iPhones, iPads and Macs. It helps us
 - Conducted testing using TestFlight and managed deployment on the App Store through App Store Connect.
 - Utilised GitHub for version control and codebase management.
 
+---
+
 # Description
 
 Resell Track: Streamline Your Reselling Journey
 
 Introducing Resell Track – the essential tool to simplify your reselling experience. Effortlessly manage your inventory by adding new items with purchase details and descriptions. Seamlessly mark items as sold, recording selling prices and dates. With the ability to undo a resale and smart sorting options, Resell Track ensures you're always in control. Easily view all your items, sort by availability, and search for specifics. Elevate your reselling game with Resell Track's fundamental functions designed to empower your business.
+
+---
 
 # Source code
 
