@@ -1,32 +1,54 @@
 ---
-name: Twitter data collection and analysis [Data Engineering Project]
-tools:
-  [
-    R,
-    R Markdown,
-    RStudio,
-    Microsoft Teams,
-    Twitter API,
-    Data Engineering,
-    Data Collection,
-    Data Pre-processing,
-    Data Analysis,
-    Data Visualisation,
-    Teamwork,
-    Uni Project,
-  ]
-image: /assets/images/dataEngineering/dataEngineering_wordcloud.png
+layout: page
+title: Twitter data collection and analysis (Data Engineering) - 5/2022
 description: Use the power of Twitter API to collect, analyse and visualise one week of data related to Elon Musk to gain insights into the social media behavior of Twitter users.
-external_url:
+img: /assets/img/dataEngineering/dataEngineering_wordcloud.png
+importance: 4
+category: data
+related_publications: false
+toc:
+  sidebar: left
 ---
 
-# Data Engineering Project
+`R`
+`R Markdown`
+`RStudio`
+`Microsoft Teams`
+`Twitter API`
+`Data Engineering`
+`Data Collection`
+`Data Pre-processing`
+`Data Analysis`
+`Data Visualisation`
+`Teamwork`
+`Uni Project`
+
+---
+
+# Screenshots
+
+{% capture carousel_images %}
+/assets/img/dataEngineering/dataEngineering_1.png
+/assets/img/dataEngineering/dataEngineering_2.png
+/assets/img/dataEngineering/dataEngineering_3.png
+/assets/img/dataEngineering/dataEngineering_4.png
+/assets/img/dataEngineering/dataEngineering_5.png
+/assets/img/dataEngineering/dataEngineering_6.png
+/assets/img/dataEngineering/dataEngineering_7.png
+/assets/img/dataEngineering/dataEngineering_8.png
+/assets/img/dataEngineering/dataEngineering_9.png
+/assets/img/dataEngineering/dataEngineering_10.png
+/assets/img/dataEngineering/dataEngineering_11.png
+{% endcapture %}
+{% include elements/carousel.html %}
 
 ---
 
 # Overview
 
 The purpose of this group project (3 people) was to use the `Twitter API` to **collect** and **analyse** **data** related to a recent global event involving Elon Musk, with the goal of exploring the impact of powerful influencers on Twitter and investigating what people were saying about the event. The project involved conducting **exploratory data analysis**, **natural language processing**, and **network analysis** using `R`, and the results were presented in an interactive `.html` report using `R Markdown`. The project aimed to provide insights into the social media behavior of Twitter users and to apply **data engineering skills** to a real-world problem.
+
+---
 
 # Technical details
 
@@ -61,6 +83,8 @@ The purpose of this group project (3 people) was to use the `Twitter API` to **c
   - Find Elon Musk’s tweets
   - Identify influential users
 
+---
+
 # Key findings
 
 Our analysis revealed that the majority of verified Twitter users shared original tweets related to Elon Musk's acquisition of Twitter from the USA. Among all the tweets, Elon Musk's tweet received the highest number of retweets. Additionally, the sentiment of the majority of the tweets was positive. Please refer to the table below for a summary of our findings.
@@ -82,6 +106,8 @@ Our analysis revealed that the majority of verified Twitter users shared origina
 | Dominant sentiments                | Positive \> Trust \> Negative                                                             |
 | Influential users                  | elonmusk, business                                                                        |
 
+---
+
 # My contribution
 
 - Contributed significantly to the successful outcome of the project, demonstrating technical proficiency and teamwork skills to achieve a perfect score of 100/100
@@ -89,6 +115,8 @@ Our analysis revealed that the majority of verified Twitter users shared origina
 - Planned and managed project progress, including allocating tasks to team members based on their different skill levels
 - Used `RStudio` and `R Markdown` to conduct **exploratory data analysis**, **natural language processing**, and **network analysis**
 - Created an interactive `HTML` report to effectively communicate complex information.
+
+---
 
 # Source code
 

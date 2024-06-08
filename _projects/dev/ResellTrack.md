@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resell Track (iOS app)
+title: Resell Track (iOS app) - 9/2023
 description: An iOS app written by SwiftUI that works on iPhones, iPads and Macs. Resell Track helps users organise purchased items, track their value, and record sales.
 img: /assets/img/resellTrack/resellTrack_appIcon.png
 importance: 2

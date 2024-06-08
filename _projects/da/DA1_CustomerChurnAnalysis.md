@@ -1,17 +1,28 @@
 ---
-name: Customer churn analysis [Data Analysis]
-tools: [Power BI, Power Query, DAX, Data Analysis, Data visualisation]
-image: /assets/images/customerChurnAnalysis/allSteps.png
+layout: page
+title: Customer churn analysis - 10/2023
 description: Utilised Power Query, DAX, and visualisation tools within Power BI to analyse a fictional telecom company's dataset, examining customer churn patterns and facilitating data-driven insights for retention strategies.
+img: /assets/img/customerChurnAnalysis/allSteps.png
+importance: 3
+category: data
+related_publications: false
+toc:
+  sidebar: left
 ---
 
-# Customer churn analysis
+`Power BI`
+`Power Query`
+`DAX`
+`Data Analysis`
+`Data visualisation`
 
 ---
 
 # Final report
 
-<iframe title="Customer churn analysis" width="900" height="547" src="https://app.powerbi.com/view?r=eyJrIjoiODQ4YmMzMDEtM2JmNi00NThiLWE4NDEtZjFlNDc0YWYyNjM2IiwidCI6ImNhYmFmZjVlLWExMTMtNDJhMS1iMjliLTIwMDk2N2M0NTZmYSIsImMiOjEwfQ%3D%3D&pageName=ReportSection83d234cc1bdbe978d3df" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Customer churn analysis" width="930" height="550" src="https://app.powerbi.com/view?r=eyJrIjoiODQ4YmMzMDEtM2JmNi00NThiLWE4NDEtZjFlNDc0YWYyNjM2IiwidCI6ImNhYmFmZjVlLWExMTMtNDJhMS1iMjliLTIwMDk2N2M0NTZmYSIsImMiOjEwfQ%3D%3D&pageName=ReportSection83d234cc1bdbe978d3df" frameborder="0" allowFullScreen="true"></iframe>
+
+---
 
 # Overview
 
@@ -26,6 +37,8 @@ Investigate the underlying reasons for customer churn for a fictional telecom co
 - Analyse and visualise data
 - Dashboarding
 - Communicate insights
+
+---
 
 # Tasks details
 

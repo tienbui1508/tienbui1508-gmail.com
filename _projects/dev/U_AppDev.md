@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scuba Diving Calculation Assistant App (Java)
+title: Scuba Diving Calculation Assistant App (Java) - 5/2022
 description: A Java application designed to automate some simple and complex calculations that are common in the dive industry. The GUI was created from a text-based prototype using Apache NetBeans. Junit was used for unit testing.
 img: assets/img/divingCalculations/divingCalculations_GUI.png
 importance: 2

@@ -1,19 +1,46 @@
 ---
-name: Inventory Management System [Cloud Computing Project]
-tools: [Node-RED, NeCTAR, IBM Cloud Services, Microsoft Teams, Teamwork, Uni Project]
-image: /assets/images/cloudComputing/cloudComputing_overview.PNG
+layout: page
+title: Inventory Management System (Cloud Computing Project) - 10/2022
 description: Use Node-RED and other cloud services and tools to develop a cloud-hosted application to assist with Inventory Management.
-
-external_url:
+img: /assets/img/cloudComputing/cloudComputing_overview.PNG
+importance: 3
+category: dev
+related_publications: false
+toc:
+  sidebar: left
 ---
 
-# Cloud Computing project
+---
+
+`Node-RED`
+`NeCTAR`
+`IBM Cloud Services`
+`Microsoft Teams`
+`Teamwork`
+`Uni Project`
 
 ---
 
-[Preview](https://replit.com/@TienBui19/DivingCalculations)
+# Screenshots
+
+{% capture carousel_images %}
+/assets/img/cloudComputing/cloudComputing_1.png
+/assets/img/cloudComputing/cloudComputing_2.png
+/assets/img/cloudComputing/cloudComputing_3.png
+/assets/img/cloudComputing/cloudComputing_4.png
+/assets/img/cloudComputing/cloudComputing_5.png
+/assets/img/cloudComputing/cloudComputing_6.png
+/assets/img/cloudComputing/cloudComputing_7.png
+{% endcapture %}
+{% include elements/carousel.html %}
+
+---
 
 # Demo video
+
+{% include elements/video.html id="I9iy-jVv-5Q" %}
+
+---
 
 # Overview
 
@@ -32,6 +59,8 @@ This project aims to use `Node-RED` and other tools to develop a **cloud-hosted 
 ## Target audience
 
 Small grocery stores with one or more stores that only sell in-store.
+
+---
 
 # Technical details
 
@@ -63,6 +92,8 @@ Small grocery stores with one or more stores that only sell in-store.
   - See the products by category and by store with their price and availability.
   - A Chatbot to help customers with their enquiries.
 
+---
+
 # My contribution
 
 - Actively participated in brainstorming sessions to generate ideas and suggestted solutions for the app's functionalities
@@ -70,6 +101,8 @@ Small grocery stores with one or more stores that only sell in-store.
 - Collaborated with team members in building a Chatbot using IBM Watson Assistant
 - Created and edited demo video using iMovie to showcase the app's features and capabilities
 - Maintained open communication with team members, regularly providing updates and feedback to ensure project success.
+
+---
 
 # Source code
 
