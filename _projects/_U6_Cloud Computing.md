@@ -1,7 +1,6 @@
 ---
 name: Inventory Management System [Cloud Computing Project]
-tools:
-  [Node-RED, NeCTAR, IBM Cloud Services, Microsoft Teams, Teamwork, Uni Project]
+tools: [Node-RED, NeCTAR, IBM Cloud Services, Microsoft Teams, Teamwork, Uni Project]
 image: /assets/images/cloudComputing/cloudComputing_overview.PNG
 description: Use Node-RED and other cloud services and tools to develop a cloud-hosted application to assist with Inventory Management.
 
@@ -14,11 +13,7 @@ external_url:
 
 [Preview](https://replit.com/@TienBui19/DivingCalculations)
 
-
-
 # Demo video
-
-
 
 # Overview
 

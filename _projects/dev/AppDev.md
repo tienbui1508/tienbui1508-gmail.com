@@ -8,17 +8,18 @@ category: dev
 related_publications: false
 toc:
   sidebar: left
-
 ---
 
 `Java` `JUnit` `Swing` `Apache NetBeans` `SVN` `IntelliJ` `Uni Project`
 
 ---
+
 # Live Demo
 
 {% include elements/button.html link="https://replit.com/@TienBui19/DivingCalculations" text="Click here to try **Scuba Diving Calculation Assistant** on *Replit*" block=true %}
 
 ---
+
 # Screenshots
 
 {% capture carousel_images %}
@@ -30,8 +31,8 @@ toc:
 {% endcapture %}
 {% include elements/carousel.html %}
 
+---
 
-----
 # Overview
 
 ## Purpose
@@ -57,9 +58,10 @@ Create an application in `Java` to automate some simple and complex calculations
 
 - Divers
 - Dive shop owners
-<br>
+  <br>
 
 ---
+
 # Technical details
 
 ## Technologies and Tools used
@@ -81,6 +83,7 @@ Create an application in `Java` to automate some simple and complex calculations
 - Write appropriate `JavaDoc` commenting and inline comments to assist future developers
 
 ---
+
 # Description
 
 The Scuba Diving Calculation Assistant is a Java application designed to automate some simple and complex calculations that are common in the dive industry. It was created for a local dive shop owner who was tired of using a calculator to perform repetitive calculations. The application calculates the Partial Pressure of Oxygen (ppO2), Best Mix (BM), Maximum Operating Depth (MOD), and Equivalent Air Depth (EAD) for a requested input.
@@ -96,6 +99,7 @@ In addition to the core algorithms, the application produces tables for Equivale
 Overall, the Scuba Diving Calculation Assistant is an essential tool for divers to ensure that they stay safe while exploring the underwater world.
 
 ---
+
 # Source code
 
 Unfortunately, this is a uni project and the source code **cannot be shared** due to academic integrity and intellectual property concerns.

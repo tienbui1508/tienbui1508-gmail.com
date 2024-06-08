@@ -10,7 +10,6 @@ external_url:
 
 ---
 
-
 # Overview
 
 This Data Modelling project is a comprehensive exercise in data modelling and database design. The aim of the project was to design and implement a relational database to manage the fleet of hire vehicles for a fictional car rental company.

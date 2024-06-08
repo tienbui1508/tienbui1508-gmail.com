@@ -24,7 +24,6 @@ external_url:
 
 ---
 
-
 # Overview
 
 The purpose of this group project (3 people) was to use the `Twitter API` to **collect** and **analyse** **data** related to a recent global event involving Elon Musk, with the goal of exploring the impact of powerful influencers on Twitter and investigating what people were saying about the event. The project involved conducting **exploratory data analysis**, **natural language processing**, and **network analysis** using `R`, and the results were presented in an interactive `.html` report using `R Markdown`. The project aimed to provide insights into the social media behavior of Twitter users and to apply **data engineering skills** to a real-world problem.

@@ -254,37 +254,19 @@
       "name": "Programming",
       "icon": "fa-solid fa-code",
       "level": "",
-      "keywords": [
-        "C#",
-        ".Net",
-        "Swift",
-        "SwiftUI",
-        "Java"
-      ]
+      "keywords": ["C#", ".Net", "Swift", "SwiftUI", "Java"]
     },
     {
       "name": "Data",
       "icon": "fa-solid fa-database",
       "level": "",
-      "keywords": [
-        "Power BI",
-        "Excel",
-        "SQL",
-        "SQL Server",
-        "Python"
-      ]
+      "keywords": ["Power BI", "Excel", "SQL", "SQL Server", "Python"]
     },
     {
       "name": "Tools",
       "icon": "fa-solid fa-laptop-code",
       "level": "",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "Xcode",
-        "VS Code",
-        "Jira"
-      ]
+      "keywords": ["Git", "GitHub", "Xcode", "VS Code", "Jira"]
     }
   ],
   "languages": [

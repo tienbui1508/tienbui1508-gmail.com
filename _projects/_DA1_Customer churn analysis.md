@@ -9,8 +9,6 @@ description: Utilised Power Query, DAX, and visualisation tools within Power BI 
 
 ---
 
-
-
 # Final report
 
 <iframe title="Customer churn analysis" width="900" height="547" src="https://app.powerbi.com/view?r=eyJrIjoiODQ4YmMzMDEtM2JmNi00NThiLWE4NDEtZjFlNDc0YWYyNjM2IiwidCI6ImNhYmFmZjVlLWExMTMtNDJhMS1iMjliLTIwMDk2N2M0NTZmYSIsImMiOjEwfQ%3D%3D&pageName=ReportSection83d234cc1bdbe978d3df" frameborder="0" allowFullScreen="true"></iframe>

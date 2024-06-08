@@ -8,9 +8,7 @@ category: dev
 related_publications: false
 toc:
   sidebar: left
-
 ---
-
 
 `C#`
 `.Net Core API`
@@ -25,6 +23,7 @@ toc:
 `Uni project`
 
 ---
+
 # Screenshots
 
 {% capture carousel_images %}
@@ -38,6 +37,7 @@ toc:
 {% include elements/carousel.html %}
 
 ---
+
 # Overview
 
 ## Purpose
@@ -51,6 +51,7 @@ This project aimed to develop an Online Voting System with two main modules - th
 - Support other teams to achieve the development of the Online Voting Module
 
 ---
+
 # Technical details
 
 ## Technologies and Tools used
@@ -77,6 +78,7 @@ _Only include Techs/Tools used in the parts that I involved in_
 - Reporting
 
 ---
+
 # My contribution
 
 - Conducted initial research to understand the project requirements and the Australian voting system
@@ -87,6 +89,7 @@ _Only include Techs/Tools used in the parts that I involved in_
 - Edited and finalised project report for submission
 
 ---
+
 # Source code
 
 Unfortunately, this is a uni project so the source code and the whole report **cannot be shared** due to academic integrity and intellectual property concerns.
