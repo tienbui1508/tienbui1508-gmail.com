@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <p> Adelaide, Australia <br> <i>IT Graduate Seeking Entry-Level Opportunities </i>  </p>
 
 profile:
   align: right
   image: avatar.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Adelaide, South Australia</p>
+    <p><center>I turn ☕️ into code &#60;&#8725;&#62; </center></p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
