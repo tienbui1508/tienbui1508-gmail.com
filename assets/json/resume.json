@@ -216,8 +216,8 @@
     {
       "name": "454 illustrator (E-commerce website)",
       "startDate": "2024-05-31",
-      "summary": "The 454 illustrator website project is an ongoing endeavor aimed at creating an e-commerce platform for showcasing and selling illustrations. It involves implementing various features to enhance user experience and streamline transactions.",
-      "url": null,
+      "summary": "Using .NET, ASP.NET Core MVC, and Razor to create and deploy an e-commerce site for showcasing and selling illustrations. Employing Visual Studio 2022 and SQL Server Management Studio for CRUD operations, Identity Framework for user authentication, and Stripe for payments. Gaining skills in large-scale project architecture, custom tag helpers, and Azure deployment. Mastering the latest ASP.NET Core MVC advancements for scalable web apps.",
+      "url": "https://tienbui1508.github.io/projects/dev/454Web/",
       "endDate": "2024-05-31",
       "highlights": [
         ".NET",
@@ -236,7 +236,7 @@
       "name": "Customer churn analysis",
       "startDate": "2023-10-31",
       "summary": "Utilised Power Query, DAX, and visualisation tools within Power BI to analyse a fictional telecom company's dataset, examining customer churn patterns and facilitating data-driven insights for retention strategies.",
-      "url": null,
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMzM1YTkwMTctNzE2Yi00YWI1LTg1Y2YtNzExMWNmMjlmOGI3IiwidCI6ImNhYmFmZjVlLWExMTMtNDJhMS1iMjliLTIwMDk2N2M0NTZmYSIsImMiOjEwfQ%3D%3D&pageName=ReportSection",
       "endDate": "2023-10-31",
       "highlights": ["Power BI", "Power Query", "DAX", "Data Analysis", "Data visualisation"]
     },
@@ -244,7 +244,7 @@
       "name": "Resell Track (iOS app)",
       "startDate": "2023-08-31",
       "summary": "An iOS app written by SwiftUI that works on iPhones, iPads and Macs. It helps users organise purchased items, track their value, and record sales.",
-      "url": null,
+      "url": "https://tienbui1508.github.io/projects/dev/ResellTrack/",
       "endDate": "2023-08-31",
       "highlights": ["Swift", "SwiftUI", "XCode", "Github", "Canva", "AppMockUp", "Test Flight", "App Store Connect"]
     },
