@@ -18,8 +18,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I am **Tien (Tim) Bui** :wave:,<br>
 
-As a recent Master of Information Technology graduate from Flinders University, I'm eager to kickstart my career in IT. While my coding and teamwork experience comes from university projects, I'm committed to continuous learning.<br>
+With a Master of Information Technology from Flinders University, I am eager to launch my career in IT. While I am in the early stages of my professional journey, my background includes extensive university projects and a strong commitment to continuous learning.<br>
 
-I'm actively developing data analysis skills in Power BI, SQL, Python, and Excel, alongside programming skills in C#, Swift and SwiftUI. My [**portfolio**](/projects/) showcases my tech dedication. As a collaborative team player, I have worked in teams of various sizes. I am committed to enhancing my skills and experience while contributing to the success of any organisation I work with.<br>
+I am actively honing my skills in software engineering, particularly with C# and .NET, while also developing my data analysis expertise using Power BI, SQL, and Excel. My [**portfolio**](/projects/) demonstrates my dedication and ability to work across various technologies.
 
-Excited about **software development** and **data analytics**, I seek an **entry-level role** to gain practical experience. Explore my portfolio to see my passion for tech. If you're in search of a motivated IT professional like me, please [**get in touch**](/contact/).
+I am enthusiastic about both **software development** and **data analytics** and am seeking an **entry-level role** to gain practical experience and contribute effectively to a team. Explore my [**portfolio**](/projects/) to see my tech projects and skills. If you’re looking for a motivated IT professional with a passion for learning and growth, please [**get in touch**](/contact/).
