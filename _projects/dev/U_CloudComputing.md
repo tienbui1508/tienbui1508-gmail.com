@@ -3,7 +3,7 @@ layout: page
 title: Inventory Management System (Cloud Computing Project) - 10/2022
 description: Use Node-RED and other cloud services and tools to develop a cloud-hosted application to assist with Inventory Management.
 img: /assets/img/cloudComputing/cloudComputing_overview.PNG
-importance: 3
+importance: 4
 category: dev
 related_publications: false
 toc:

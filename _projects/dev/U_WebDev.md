@@ -3,7 +3,7 @@ layout: page
 title: Kitchenware Content Management System (No Framework Web Dev) - 10/2021
 description: Without using any web frameworks, develop a XAMPP enabled website with a backend database for an e-commerce business, providing mechanisms for a web administrator to add, edit and remove content from their website.
 img: /assets/img/webDev/webDev_0.png
-importance: 2
+importance: 3
 category: dev
 related_publications: false
 toc:
